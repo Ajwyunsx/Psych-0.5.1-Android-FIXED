@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				81,
+				-70
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Parasite Backwards",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Parasite Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				-100
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Parasite Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				-43
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Parasite Forwards",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Parasite Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/black-SUSSY",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-60,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
